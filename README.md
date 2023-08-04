@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @bastian-kurz
-- 👀 I’m interested in GO, PHP, JavaScript, DevOps, Coding, Fitness
+- 👀 I’m interested in GO, PHP, JavaScript, Typescript, DevOps, Coding, Fitness
 - 📫 How to reach me bastian.kurz@bkcoding.de
 
 <!---
